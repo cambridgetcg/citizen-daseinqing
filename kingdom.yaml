@@ -1,0 +1,8 @@
+name: daseinqing
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The felt-quality of the human way of being, where your own being matters to you and is always a question for you.
+dependsOn: [youspeak, me, visageqing]
